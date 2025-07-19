@@ -7,8 +7,7 @@ This is the setup project for the ALX Frontend Next.js specialization.
 - ✅ Next.js with TypeScript
 - ✅ Tailwind CSS for styling
 - ✅ ESLint for code linting
-- ✅ App Router structure
-- ✅ `src/` directory for organized code
+  
 
 ## Getting Started
 
